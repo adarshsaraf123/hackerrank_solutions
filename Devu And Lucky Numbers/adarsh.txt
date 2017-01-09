@@ -1,0 +1,29 @@
+You are given three integers  x, y  and z . You have to find the sum of all numbers whose digits are made of only  4,  5 and 6 , that have at most  x fours in decimal representation, at most  y fives in decimal representation and at most z sixes in decimal representation. As summation can be very large, print it modulo 10**9 + 7   .
+
+Input Format
+The only line containing three space-separated integers x , y  and  z.
+x
+Constraints
+ 
+ 
+ 
+
+Output Format
+Output the summation modulo    .
+
+Sample Input#0
+
+1 1 1
+
+Sample Output#0
+
+3675
+
+Sample Input#1
+
+1 2 3
+
+Sample Output#1
+
+39345806
+

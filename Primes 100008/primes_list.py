@@ -1,0 +1,1 @@
+primes = [input() for _ in xrange(100)]
